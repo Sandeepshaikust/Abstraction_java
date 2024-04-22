@@ -1,8 +1,16 @@
 package Javahandsone;
 
 public class circle extends shape {
-	void calculatearea() {
 	
-System.out.println("Area of circle");
-}
+
+
+	@Override
+	public void calculatearea() {
+		// TODO Auto-generated method stub
+		System.out.println("Area of circle");
+
+	}
+
+	
+	
 }
